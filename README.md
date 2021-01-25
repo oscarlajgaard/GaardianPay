@@ -1,6 +1,6 @@
 # Gateway Service
 
-##usage
+#Usage
 
 **Our service will create a session with an id. The id will be bound to the product and payment**  
 Here's an example.
